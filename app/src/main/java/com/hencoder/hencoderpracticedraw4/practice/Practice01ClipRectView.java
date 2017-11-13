@@ -13,9 +13,12 @@ import android.view.View;
 import com.hencoder.hencoderpracticedraw4.R;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 //test3
+=======
+>>>>>>> 6409931... [hencoder]4
 =======
 >>>>>>> 6409931... [hencoder]4
 public class Practice01ClipRectView extends View {
