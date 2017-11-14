@@ -13,6 +13,7 @@ import android.view.View;
 import com.hencoder.hencoderpracticedraw4.R;
 
 
+
 public class Practice01ClipRectView extends View {
     Paint paint = new Paint(Paint.ANTI_ALIAS_FLAG);
     Bitmap bitmap;
