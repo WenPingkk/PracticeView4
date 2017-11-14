@@ -14,6 +14,7 @@ import com.hencoder.hencoderpracticedraw4.R;
 
 
 
+//test3
 public class Practice01ClipRectView extends View {
     Paint paint = new Paint(Paint.ANTI_ALIAS_FLAG);
     Bitmap bitmap;
